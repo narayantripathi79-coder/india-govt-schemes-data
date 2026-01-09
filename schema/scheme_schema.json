@@ -1,0 +1,13 @@
+{
+  "scheme_id": "string",
+  "scheme_name": "string",
+  "category": "Education | Health | Agriculture | Employment | Women | Social Welfare",
+  "beneficiary_type": "Student | Farmer | Women | Senior Citizen | All",
+  "eligibility": "string",
+  "benefits": "string",
+  "funding_type": "Central | State | Both",
+  "state": "All India | State Name",
+  "launch_year": "number",
+  "source_url": "string",
+  "last_updated": "YYYY-MM-DD"
+}
